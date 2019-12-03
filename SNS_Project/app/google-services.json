@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757071520077",
+    "firebase_url": "https://signupin-940db.firebaseio.com",
+    "project_id": "signupin-940db",
+    "storage_bucket": "signupin-940db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757071520077:android:15e1e9d7c1f96d4d779704",
+        "android_client_info": {
+          "package_name": "com.example.sns_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757071520077-kotupacaonrajs5a6eltkn6c7l7iuk8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sns_project",
+            "certificate_hash": "f37c2ac0cef81a9fd1350ed144da53976c9bdda4"
+          }
+        },
+        {
+          "client_id": "757071520077-kvlk0ubc3gv8gtald8d66v12go3gmt87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAooZ4caJro-SbAoD_NL0PcCfu9pLGdIb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757071520077-kvlk0ubc3gv8gtald8d66v12go3gmt87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
