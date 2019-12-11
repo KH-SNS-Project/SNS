@@ -21,6 +21,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Button;
 
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentPagerAdapter;
@@ -84,6 +85,7 @@ public class  MainActivity extends BaseActivity {
                 startActivity(new Intent(MainActivity.this, NewPostActivity.class));
             }
         });
+
     }
 
     @Override
